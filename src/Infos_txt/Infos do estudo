@@ -1,0 +1,8 @@
+Estudo de um CRUD usando banco de dados mysql e Hibernate para gerenciado das açoes
+
+configuraçoes do hibernate utilizando as jars mais novas do site
+problemas resolvidos apos atualizar os jars e o provide do xml que estava desatualizado
+
+ate o momento 15-11 todas as classes criadas ate agora estao funcionando normalmente, inserçao, carregamento, busca, 
+remover e update
+
